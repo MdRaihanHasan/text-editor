@@ -11,7 +11,7 @@ A simple yet powerful web-based text editor built with **Quill.js**, **Tailwind 
 - 📱 **Responsive Design** (Works on all devices)
 
 ## Demo
-You can try the live demo [here](https://gorib.site).
+You can try the live demo [here](https://editor.mdraihanhasan.info/).
 
 ## Installation
 To run the project locally:
